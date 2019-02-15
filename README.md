@@ -143,7 +143,7 @@ fun (x: Int, y: Int): Int {
 
 > 流程图
 
-```flow
+flow
 st=>start: 开始
 op=>operation: My Operation
 cond=>condition: Yes or No?
@@ -151,4 +151,4 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&```
+&
