@@ -93,26 +93,4 @@ fun (x: Int, y: Int): Int {`
 \!   惊叹号
 
 
-<font color='#ff0000'>fdsafsdfdsf</font>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+> 文字颜色
